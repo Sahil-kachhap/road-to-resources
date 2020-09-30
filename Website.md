@@ -86,5 +86,5 @@ Has an elegant UI with **10+ learning tracks**, ranging from Shell scripting to 
 * ### [CodeSandbox](https://codesandbox.io/index2)
 > This is an online code editor and prototyping tool that makes creating and sharing web apps faster.
 
-* ###[quicktype](https://quicktype.io/)
+* ### [quicktype](https://quicktype.io/)
 >An Online Tool that converts JSON into gorgeous typesafe code in any language. Generate models and serializer from JSON, schema, and GraphQL for working with data quickly and safely in any programming language.
